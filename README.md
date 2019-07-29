@@ -13,7 +13,7 @@ Os arquivos estão no formato do Jupyter, portanto para executar as sessões de 
 3. [Aprendendo Python - Trabalhando com Strings](https://github.com/AnselmoBorges/curso_python/blob/master/03%20-%20Aprendendo%20Python%20-%20Trabalhando%20com%20Strings.ipynb)
 4. [Aprendendo Python - Listas e truplas](https://github.com/AnselmoBorges/curso_python/blob/master/04%20-%20Aprendendo%20Python%20-%20Listas%20e%20truplas.ipynb)
 5. [Aprendendo Python - Dicionários](https://github.com/AnselmoBorges/curso_python/blob/master/05%20-%20Aprendendo%20Python%20-%20Dicion%C3%A1rios.ipynb)
-6. [Aprendendo Python - Condicionais](https://github.com/AnselmoBorges/curso_python/blob/master/06%20-%20Aprendendo%20Python%20-%20Condicionais%20(If%2C%20elif%2C%20than%20e%20else.ipynb)
+6. [Aprendendo Python - Condicionais](https://github.com/AnselmoBorges/curso_python/blob/master/06%20-%20Aprendendo%20Python%20-%20Condicionais%20If%2C%20elif%2C%20than%20e%20else.ipynb)
 7. [Aprendendo Python - Loops while](https://github.com/AnselmoBorges/curso_python/blob/master/05%20-%20Aprendendo%20Python%20-%20Dicion%C3%A1rios.ipynb)
 8. [Aprendendo Python - Loops For](https://github.com/AnselmoBorges/curso_python/blob/master/05%20-%20Aprendendo%20Python%20-%20Dicion%C3%A1rios.ipynb)
 
