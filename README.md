@@ -16,4 +16,6 @@ Os arquivos estão no formato do Jupyter, portanto para executar as sessões de 
 6. [Aprendendo Python - Condicionais](https://github.com/AnselmoBorges/curso_python/blob/master/06%20-%20Aprendendo%20Python%20-%20Condicionais%20If%2C%20elif%2C%20than%20e%20else.ipynb)
 7. [Aprendendo Python - Loops while](https://github.com/AnselmoBorges/curso_python/blob/master/07%20-%20Aprendendo%20Python%20-%20Loops%20While.ipynb)
 8. [Aprendendo Python - Loops For](https://github.com/AnselmoBorges/curso_python/blob/master/08%20-%20Aprendendo%20Python%20-%20Loops%20For.ipynb)
-
+9. [Aprendendo Python - Validação de dados](https://github.com/AnselmoBorges/curso_python/blob/master/09%20-%20Aprendendo%20Python%20-%20Valida%C3%A7%C3%A3o%20de%20dados.ipynb)
+10. [Aprendendo Python - Funções](https://github.com/AnselmoBorges/curso_python/blob/master/10%20-%20Aprendendo%20Python%20-%20Fun%C3%A7%C3%B5es.ipynb)
+11. [Aprendendo Python - Módulos](https://github.com/AnselmoBorges/curso_python/blob/master/11%20-%20Aprendendo%20Python%20-%20Modulos.ipynb)
